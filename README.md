@@ -2,4 +2,6 @@
 :trollface:
 [![Imgur](https://i.imgur.com/AlKoUmy.jpg)](https://i.imgur.com/AlKoUmy.jpg)
 
-collections of package main for quick tests
+reverse field values
+ended up copying and modifying the whole `encoding/json` because am too lazy to take only what is needed, ~maybe i do later~
+lacking many stuffs
