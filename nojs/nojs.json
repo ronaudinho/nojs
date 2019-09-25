@@ -1,0 +1,39 @@
+{
+	"str": "json",
+	"strs": [
+		"json",
+		"json"
+	],
+	"int": 1234,
+	"ints": [
+		1234,
+		5678
+	],
+	"bool": true,
+	"bools": [
+		true,
+		false
+	],
+	"map": {
+		"str": "json",
+		"strs": [
+			"json",
+			"json"
+		],
+		"int": 1234,
+		"int": [
+			1234,
+			5678
+		],
+		"bool": true,
+		"bools": [
+			true,
+			false
+		]
+	},
+	"structchild": {
+		"str": "json",
+		"int": 1234,
+		"bool": true
+	}
+}
